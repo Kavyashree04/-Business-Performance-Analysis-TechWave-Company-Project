@@ -42,14 +42,14 @@ Result – Increased sales volume did not improve profits. In fact, higher produ
  What I Did:
 
 1. Cleaned the dataset — fixed missing values, corrected data types, ensured data accuracy.
-2. 
-3. Performed EDA — spotted anomalies, cost surges, and profit dips.
-4. 
-5. Created KPI — Total cost
-6. 
-7. Built Visuals — Bar charts, Line charts, Key influencers chart and Performance gauges to reflect key metrics.
-8. 
-9. Designed Dashboard — focused on delivering “what’s happening and why” rather than overloading with unnecessary visuals.
+
+2. Performed EDA — spotted anomalies, cost surges, and profit dips.
+
+3. Created KPI — Total cost
+
+4. Built Visuals — Bar charts, Line charts, Key influencers chart and Performance gauges to reflect key metrics.
+
+5. Designed Dashboard — focused on delivering “what’s happening and why” rather than overloading with unnecessary visuals.
 
 
 
