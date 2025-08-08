@@ -11,8 +11,11 @@ The focus was to let the data tell the story — from cleaning raw inputs to bui
 Scope of Work:
 
 Data Cleaning – Preparing raw data for analysis by removing errors and inconsistencies.
+
 Data Analysis – Identifying trends, patterns, and anomalies.
+
 Data Visualization – Designing an interactive Power BI dashboard.
+
 Data Storytelling – Presenting insights in a way that’s easy for executives to act upon.
 
 
@@ -39,10 +42,14 @@ Result – Increased sales volume did not improve profits. In fact, higher produ
  What I Did:
 
 1. Cleaned the dataset — fixed missing values, corrected data types, ensured data accuracy.
-2. Performed EDA — spotted anomalies, cost surges, and profit dips.
-3. Created KPI — Total cost
-4. Built Visuals — Bar charts, Line charts, Key influencers chart and Performance gauges to reflect key metrics.
-5. Designed Dashboard — focused on delivering “what’s happening and why” rather than overloading with unnecessary visuals.
+2. 
+3. Performed EDA — spotted anomalies, cost surges, and profit dips.
+4. 
+5. Created KPI — Total cost
+6. 
+7. Built Visuals — Bar charts, Line charts, Key influencers chart and Performance gauges to reflect key metrics.
+8. 
+9. Designed Dashboard — focused on delivering “what’s happening and why” rather than overloading with unnecessary visuals.
 
 
 
@@ -50,7 +57,9 @@ Result – Increased sales volume did not improve profits. In fact, higher produ
  Key Findings:
 
 Root Cause: Declining profit margins due to rising costs combined with reduced selling prices.
+
 Performance Indicator: Gauge chart showed profits well below the target range.
+
 Cost Impact: Higher costs are consuming profit margins, creating long-term risk if not addressed.
 
 
@@ -59,6 +68,7 @@ Cost Impact: Higher costs are consuming profit margins, creating long-term risk 
  Tools Used:
 
 Power BI – For data cleaning, modeling, visualization.
+
 Fictional Dataset – Self-created to simulate real-world analysis.
 
 
